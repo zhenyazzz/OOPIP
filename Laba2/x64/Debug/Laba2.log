@@ -1,0 +1,19 @@
+﻿  AcademicStaff.cpp
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(59,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(60,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(124,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(125,96): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(136,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(145,83): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(155,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(167,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(168,169): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+E:\2 курс\3 семестр\ООПИП\Laba2\Laba2\AcademicStaff.cpp(168,83): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+  Address.cpp
+  Assistant.cpp
+  Laba2.cpp
+  Person.cpp
+  Professor.cpp
+  Student.cpp
+  Создание кода...
+  Laba2.vcxproj -> E:\2 курс\3 семестр\ООПИП\Laba2\x64\Debug\Laba2.exe
