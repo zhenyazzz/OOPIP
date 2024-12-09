@@ -1,0 +1,10 @@
+﻿  CustomDeviceFactory.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,61): error C2661: Router::Router: нет перегруженной функции, принимающей 6 аргументов
+  DeviceFactory.cpp
+  Laba6.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,61): error C2661: Router::Router: нет перегруженной функции, принимающей 6 аргументов
+  ManagerFactory.cpp
+  ModemFactory.cpp
+  NetworkDeviceManagerFactory.cpp
+  Router.cpp
+  Создание кода...
