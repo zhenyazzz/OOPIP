@@ -1,0 +1,6 @@
+﻿  Laba3.cpp
+  NetworkDevice.cpp
+  NetworkDeviceManager.cpp
+  Создание кода...
+E:\2 курс\3 семестр\ООПИП\Laba3\Laba3\NetworkDeviceManager.cpp(120,1): warning C4715: NetworkDeviceManager::createDevice: значение возвращается не при всех путях выполнения
+  Laba3.vcxproj -> E:\2 курс\3 семестр\ООПИП\Laba3\x64\Debug\Laba3.exe
